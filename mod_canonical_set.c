@@ -27,7 +27,6 @@ mod_canonical_set.c -- Apache mod_canonical_set module
      HeaderEncryption GRIGRI
  </Location>
 
-
 =head1 AUTHOR
 
 Maurizio Abba'
